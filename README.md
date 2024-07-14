@@ -6,6 +6,8 @@ Repository for my final undergraduate project, focused on studying and applying 
 
 # Notebooks and Programs
 
+The official code is saved in 'code - official'.
+
 For the preprocessing part, from data acquisition to the vector store.
 
 1. **Metadata Parsing**: From the metadata information downloaded from "Base Minerva" in RIS Format (saved in ./metadata_minerva), parse the RIS format to Json format with title, authors, abstract, bibliography pages, keywords, urls, pdf urls, and the id. The parsed data is saved to ./metadata_documents.
