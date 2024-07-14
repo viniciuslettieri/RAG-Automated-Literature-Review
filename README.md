@@ -2,6 +2,7 @@
 
 Repository for my final undergraduate project, focused on studying and applying the Retrieval-Augmented Generation paradigm in automating the bibliographic review process in Literature Reviews, with the goal of making research work more efficient.
 
+![arquitetura](https://github.com/user-attachments/assets/2f1d3335-c5b5-43e1-a136-6bb4dfd05e78)
 
 # Notebooks and Programs
 
